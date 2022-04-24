@@ -1,0 +1,21 @@
+a {
+  color: aquamarine;
+}
+body {
+  background-color: black;
+  background-image: url('http://kungbodyboard.com/wp-content/uploads/2016/02/14520432097_160b56ba2e_o.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+  color: antiquewhite;
+}
+h2 {
+  color: antiquewhite;
+}
+p {
+  color: antiquewhite;
+}
+label {
+  color: antiquewhite;
+}
