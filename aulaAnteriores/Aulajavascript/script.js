@@ -1,0 +1,1 @@
+alert("Eta pagina tem JS!")
